@@ -1,0 +1,15 @@
+<svg
+    className="w-3 h-auto text-gray-500"
+    aria-hidden="true"
+    fill="none"
+    viewBox="0 0 14 8"
+    style={{ marginLeft: '10px' }}
+  >
+    <path
+      stroke="currentColor"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth="2"
+      d="m1 1 5.326 5.7a.909.909 0 0 0 1.348 0L13 1"
+    />
+  </svg>
